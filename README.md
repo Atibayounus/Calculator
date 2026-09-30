@@ -1,5 +1,5 @@
 # 🧮 Calculator
-A simple, responsive calculator web app built with HTML, CSS, and JavaScript — featuring a sleek dark cyberpunk-inspired UI with neon magenta and cyan accents.
+A very simple, responsive calculator web app built with HTML, CSS, and JavaScript — featuring a sleek dark cyberpunk-inspired UI with neon magenta and cyan accents.
 ## ✨ Features
 - Basic arithmetic operations: addition, subtraction, multiplication, division
 - Clear (C) and delete (DEL) functionality
